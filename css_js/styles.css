@@ -1,0 +1,72 @@
+body {
+  cursor: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url(/img/fivem_halloween.jpg);
+  background-position-y: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: Arial, sans-serif;
+  margin-left: -65%;
+}
+
+h1, h2 {
+  font-size: 75px;
+  margin: 0;
+}
+
+h1 {
+  color: rgb(87, 87, 87);
+}
+
+h2 {
+  font-size: 40px;
+  color: #ffd000;
+  margin-left: 5px;
+}
+
+#centerText {
+  position: absolute;
+  bottom: 3%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: rgba(87, 87, 87, 0.6);
+}
+
+.loadbar {
+  width: 35%;
+  background-color: #000000;
+  height: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 10px;
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: block;
+  border-radius: 9px;
+}
+
+.progressBar {
+  width: 10%;
+  height: 20px;
+  position: absolute;
+  left: 10%;
+  border-radius: 9px;
+  background: rgb(255, 255, 0);
+  box-shadow: 0 0 10px rgba(255, 255, 0, 0.8);
+}
+
