@@ -1,14 +1,10 @@
 # Z-LoadingScreen-V2Basic
 
-
-# Z-LoadingScreen-V2Basic
-
 〉**[EN]**
 
 - This loading screen is designed with HTML, CSS, and JavaScript elements, allowing for great flexibility in terms of layout and customization. The code is very easy to change and understand, below I am going to show you where you have to go to change, the wallpaper, the titles, and the music.
 
-- _**It is worth emphasizing this loading screen, as it says in the name, it is very basic and is for people who only need something super basic on their server and that does not take up space or anything like that...
-**_
+- _**It is worth emphasizing this loading screen, as it says in the name, it is very basic and is for people who only need something super basic on their server and that does not take up space or anything like that...**_
 
 **[ES]**
 
