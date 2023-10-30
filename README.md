@@ -43,6 +43,7 @@ This simple and lightweight loading screen has been designed using HTML, CSS and
 Please note that this loading screen is intentionally basic and is best suited for users who require a minimalist solution that does not consume resources, does not take up space...
 
 <details>
+  
 <summary><b>[SPANISH]</b></summary>
 
 Esta pantalla de carga simple y ligera ha sido diseñada utilizando elementos HTML, CSS y JavaScript. Ofrece flexibilidad en cuanto a diseño y personalización, al mismo tiempo que es fácil de modificar y entender. Esta guía te mostrará cómo cambiar el fondo, personalizar los títulos y cambiar la música.
